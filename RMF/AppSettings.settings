@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RMF.Service" GeneratedClassName="AppSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\localhost\mirror\local</Value>
+    </Setting>
+    <Setting Name="Path2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\localhost\mirror\remote</Value>
+    </Setting>
+    <Setting Name="CheckIntervalSec" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ExcludedFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.lnk,openfiles.dat,~$*.*</Value>
+    </Setting>
+    <Setting Name="LoggerVerbosity" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ExcludedFolders" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d610d2f,c449872</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
