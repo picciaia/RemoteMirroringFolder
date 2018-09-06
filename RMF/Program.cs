@@ -37,7 +37,7 @@ namespace RMF
 {
     /// <summary>
     /// Starting object with main entry point
-    /// This appplication can be started both as a standard windows console app or as a windows service
+    /// This process can be started either as a standard windows console app or as a windows service
     /// </summary>
     public class Program
     {
